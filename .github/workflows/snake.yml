@@ -1,3 +1,6 @@
+              - name: Snake game generator from Github contributions
+                uses: Sutil/snk@v01.00.02
+            
 name: Generate snake game
 on:
   schedule:
