@@ -10,7 +10,7 @@
 
 I'm a communication and electronics Engineer who is passionate about Embedded Software, IoT & Robotics.
 
-- 🎓 &nbsp; Graduated From : Faculty of Enineering (Electronics and Communication department) - Mansoura Unversity.
+- 🎓 &nbsp; Graduated From : Faculty of Engineering (Electronics and Communication department) - Mansoura Unversity.
 - Grade : Good.
 - 🌱 &nbsp; Learning more about Microcontrollers , Embedded Sofware,IoT,ROS and AI. 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/mohamed-fadel-713898212/) [Gmail](https://www.fadelmohamed100s@gmail.com)
